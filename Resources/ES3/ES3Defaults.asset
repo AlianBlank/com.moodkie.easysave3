@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a2e6869eb272b4393437a01e6d5a91, type: 3}
+  m_Name: ES3Defaults
+  m_EditorClassIdentifier: 
+  settings:
+    _location: 0
+    path: save.file
+    encryptionType: 1
+    compressionType: 0
+    encryptionPassword: smart-dog.2023
+    directory: 0
+    format: 0
+    prettyPrint: 1
+    bufferSize: 2048
+    saveChildren: 0
+    postprocessRawCachedData: 0
+    typeChecking: 1
+    safeReflection: 1
+    memberReferenceMode: 0
+    referenceMode: 2
+    serializationDepthLimit: 64
+    assemblyNames:
+    - Assembly-CSharp
+    - BeastConsole.Runtime
+    - BestHTTP
+    - BetterStreamingAssets
+    - BlankGetChannel.Runtime
+    - BlankOperationClipboard.Runtime
+    - BlankReadAssets.Runtime
+    - DOTween.Runtime.Modules
+    - EasySave3.Runtime
+    - FairyGU.Extension.DragonBones
+    - FairyGUI.Runtime
+    - FarryGU.Extension.Spine
+    - FarryGU.Extension.TextMeshPro
+    - GameAnalytics.Runtime
+    - GameFrameX.Runtime
+    - HybridCLR.Runtime
+    - io.sentry.unity.runtime
+    - LitJSON.Runtime
+    - LogView.Runtime
+    - LuBan.Runtime
+    - MessagePack.Annotations
+    - MessagePack.Runtime
+    - PolyNav2D.Runtime
+    - QFSW.QC.Grammar
+    - QFSW.QC.Parsers
+    - QFSW.QC.ScanRules
+    - QFSW.QC.Serializers
+    - QFSW.QC.Suggestors
+    - QFSW.QC.UI
+    - QuantumConsole.Runtime
+    - QuantumConsole.Runtime.Extension
+    - SimpleJSON.Runtime
+    - spine-unity
+    - UniTask
+    - UniTask.Runtime.DOTween
+    - UniTask.Runtime.Linq
+    - Unity.HotFix
+    - Unity.HotFix.Proto
+    - Unity.Startup
+    - XLua.Runtime
+    - YooAsset.Runtime
+    showAdvancedSettings: 1
+  addMgrToSceneAutomatically: 0
+  autoUpdateReferences: 1
+  addAllPrefabsToManager: 1
+  collectDependenciesDepth: 4
+  logDebugInfo: 0
+  logWarnings: 1
+  logErrors: 1
